@@ -63,6 +63,10 @@ button {
   gap: 20px;
 }
 
+label {
+  padding: 0px 4px;
+}
+
 #form-container {
   width: 75%;
   padding: 20px;
